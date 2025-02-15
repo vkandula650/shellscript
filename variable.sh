@@ -1,6 +1,6 @@
 #! /bin/bash
-PERSON=Ramesh
-PERSON2=SURESh
+PERSON=$1
+PERSON2=$2
 
 echo "$PERSON::Hi"
 echo "$PERSON2::kk"
